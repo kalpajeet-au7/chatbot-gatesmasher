@@ -1,1 +1,1 @@
-A chatbot for GATE preaparation resources.
+A chatbot for GATE preparation resources.
