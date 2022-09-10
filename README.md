@@ -1,5 +1,7 @@
 An exam preparation chatbot that shares popular resources based on the option selected by the user.
-Created using React and deployed on Heroku!
+
+Created using **React** and deployed on **Heroku!**
+
 Supports both option selection and text input.
 
 <img width="248" alt="chatbot-initial" src="https://user-images.githubusercontent.com/63442607/189492411-00644776-1c39-4244-b13e-68d1ab9c320a.png">
